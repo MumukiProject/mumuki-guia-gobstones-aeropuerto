@@ -7,14 +7,17 @@ expectations:
   binding: program
   inspection: Uses:PrenderRadar
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: PrenderRadar
+  binding: PrenderCuadrante
   inspection: UsesIf
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: PrenderRadar
+  binding: PrenderCuadrante
   inspection: Uses:hayBolitas
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: PrenderRadar
+  binding: PrenderCuadrante
   inspection: Uses:no
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: PrenderRadar
+  binding: PrenderCuadrante
   inspection: Uses:Poner
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PrenderRadar
+  inspection: Uses:PrenderCuadrante
