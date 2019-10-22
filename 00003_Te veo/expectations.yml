@@ -1,0 +1,20 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Declares:PrenderAvion
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:PrenderAvion
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:PrenderPista
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:PrenderRadar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PrenderAvion
+  inspection: UsesIf
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PrenderAvion
+  inspection: Uses:Poner
