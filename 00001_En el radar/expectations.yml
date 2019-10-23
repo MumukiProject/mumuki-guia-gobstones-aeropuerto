@@ -14,7 +14,7 @@ expectations:
   inspection: Uses:hayBolitas
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: PrenderCuadrante
-  inspection: Uses:no
+  inspection: Uses:not
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: PrenderCuadrante
   inspection: Uses:Poner
