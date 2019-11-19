@@ -1,1 +1,1 @@
-Eel avión ya está volando a su destino, ¿a dónde irá? :thinking: No lo sabemos. Pero nuestro itinerario está programado. ¡Vamos!
+El avión ya está volando a su destino, ¿a dónde irá? :thinking: No lo sabemos. Pero nuestro itinerario está programado. ¡Vamos!
